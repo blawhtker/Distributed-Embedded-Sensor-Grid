@@ -1,5 +1,5 @@
 /**
- * STEPS Master Controller Firmware v2.0
+ * Master Controller Firmware v2.0
  * MCU: ATmega32U4 (Arduino Leonardo compatible)
  * Function: 
  * 1. Polls 9 I2C tiles for sensor data -> Sends USB HID Keystrokes
