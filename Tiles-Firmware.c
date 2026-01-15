@@ -1,5 +1,5 @@
 /**
- * STEPS Input Tile Firmware (Enhanced)
+ * Input Tile Firmware 
  * MCU: ATmega328PB
  * Features: FSR Polling, I2C Communication, Custom 3x3 LED Animations
  */
